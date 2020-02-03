@@ -1,4 +1,9 @@
-How has the internet
-Briefly descibe
-What is a directory 
-Why is using a VCS
+Elle Wilgus
+
+1. The web is different from the internet because the web is the collection of information accessed online while the internet is the global network of all other networks.
+
+2. The internet works through infinite connections with different servers connected to the wire. Clients send data which is broken down into packets and are reconstructed on the other end after being directed by various routers. 
+
+3. A directory is the nesting of folders that contain different files within one another. 
+
+4. Using a VCS is beneficial because doing so allows the creator to store every stage of their progress and therefore, track changes, revert back to previous versions, and collaborate with other users.
