@@ -1,12 +1,12 @@
 Elle Wilgus
 
-1. One way data travels on the internet
+1. One way that data travels on the internet is through bits and bytes of binary code along a wire or cable. 
 
-2. Relationship between ip adress and dns
+2. The relationship between an IP address and the DNS is that the Domain Name System associates web names with the IP addresses and allows the client to get to the destination on the internet.
 
-3. A cookie is 
+3. A cookie is data that websites use to rememeber a user the next time they access their site.
 
 4. The basic parts of URL are
-* one
-*two
-*three
+* the protocol
+* the path
+* the domain
