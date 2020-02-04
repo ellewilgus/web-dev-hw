@@ -1,2 +1,12 @@
-content
-more
+Elle Wilgus
+
+1. One way data travels on the internet
+
+2. Relationship between ip adress and dns
+
+3. A cookie is 
+
+4. The basic parts of URL are
+* one
+*two
+*three
