@@ -62,16 +62,30 @@
       </tr>
     </table>
 <br>
-
+  <h3>Leave your information and we'll get back to you!</h3>
 
     <form action="https://example.com/registration.php" method="post">
       First Name
       <input type="text" name="firstname" maxlength="12">
-
-      <br><br>
-      Any additional information
+            <br>
+      Last Name
+      <input type="text" name="lastname" maxlength="20">
+            <br>
+      Email
+      <input type="text" name="email" maxlength="40">
+            <br>
+      How did you hear about us?
+  <input type="radio" name="discovered" value="friend" /> Friend
+  <br />
+  <input type="radio" name="discovered" value="employee" /> Employee
+  <br />
+  <input type="radio" name="discovered" value="FB" /> Facebook
+  <br />
+  <input type="radio" name="discovered" value="other" /> Other
+            <br>
+      Message:
       <br>
-      <textarea></textarea>
+      <textarea name="comments" id="test-textarea" placeholder="What can we help you with?"</textarea>
 
       <br>
 
