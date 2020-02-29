@@ -1,8 +1,8 @@
 # Elle Wilgus
 ## Assignment 6
 
-1. first response
+1. While I was exploring different websites to find the operating hours and address of an establishment, I realized that many websites have forms to get in contact with the business rather than just providing an email address. With these forms, usually, they features an input for your name, your email address, and a text area for whatever question or comment you have. This is what I tried to mimic on my webpage for this assignment. The purpose of this form is to gather data from the web-user and use it to respond to them at a later time. It is kind of crazy how many websites use forms and how it has become so normal now to visit a website and immediately be prompted to input some sort of information.
 
-2. second response
+2. Text input, selection input, and buttons are all used for different reasons. Examples of text input include anytime you want the user to type their own characters into a blank. This can be a username, password, shippings address, contact information, or free response. Selection input examples include all radio buttons, checkboxes, or dropdown selection menus. Most often, I think of selecting your state from a dropdown or "checking all that apply" when websites are collecting data about an individual user. Lastly, examples of buttons are upload buttons to upload files, submit buttons to send the information filled out in a form, or buttons used to navigate the different pages of the site sometimes using images.
 
-3. last response
+3. For this assignment, I found that it took me a little bit longer to complete because all the elements are getting more and more complex. My work cycle was much slower due to the fact that I had to save, commit to master, push changes, and wait for the webpage to update more often than before to see that all the changes were working properly. Many times during the process of writing in atom, I didn't notice when tags weren't closed correctly or when I didn't leave breaks and I would have to go back and find where there was a mistake. That gets pretty time consuming, not to mention that forms and tables take a lot more time than most other elements that we've learned so far. Overall, I am starting to see how complicated web design can be for even the most simple webpages.
