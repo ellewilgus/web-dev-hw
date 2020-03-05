@@ -1,8 +1,8 @@
 # Elle Wilgus
 ## Assignment 7
 
-1. Briefly describe the difference between divs, classes, ids, and spans.
+1. Divs uses the <div>...</div> tag and allows you to group elements together and makes it easier to apply style to a group of content. You can put div tags around any group of elements to organize different sections of your page. The class attribute groups elements together of similar types which also helps when adding style to groups of a particular class. The id attribute lays within the div tags and identifies what the element is or does. The id value is a description utilizing proper naming practices for html. Lastly, spans are similar to divs in that they group and identify content together, however they are an inline element and there can be multiple spans inside a div.
 
-2. What is "alt text," and why do we use it?
+2. Alt text is a required attribute of an image element that describes the image. We use alternative text because it is the standard for images on a webpage and to accommodate users who are visually impaired.
 
-3. Free response
+3. My work cycle for assignment 7 was kind of all over the place. At first, I was very excited that we would get to pick a musical artist and upload some of their content. I was also excited that more style is being added to the pages each week, even if we copied it and added it from the assignment resources. I was surprised with how easy applications like Youtube and Soundcloud make it to embed a video or a audio clip to your own website. As I added each element, the page began to come together and I was happy with how it was starting to look, like an actual functioning webpage. Finally, I found the new building blocks that we learned this week to be very helpful. I see why the added division and identification is helpful when you have more and more to write. 
