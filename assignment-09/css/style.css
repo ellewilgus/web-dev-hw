@@ -1,7 +1,7 @@
 /* This applies to everything. */
 body {
    font-family: Arial;
-   background-color: rgb(0,0,0)
+   background-color: rgb(16, 168, 177)
 }
 
 /* Element selectors that apply to each element. */
@@ -11,10 +11,6 @@ h1 {
 }
 
 h2 {
-
-}
-
-p {
   color: black;
 }
 
@@ -28,19 +24,37 @@ p {
 
 }
 
+.image {
+
+}
+
 /* ID selectors start with # and apply to every ID="whatever". */
-#color1 {
-  background-color:
+#pink {
+  background-color: rgb(230, 55, 240)
+  padding: 5px
+  color: rgb(68, 31, 218)
 }
 
-#color2 {
-  background-color:
+#purple {
+  background-color: rgb(132, 56, 255)
+  padding: 5px
+  color: rgb(224, 80, 66)
 }
 
-#color3 {
-  background-color:
+#aqua {
+  background-color: rgb(0, 255, 201)
+  padding: 5px
+  color: rgb(255, 245, 10)
 }
 
-#color4 {
-  background-color:
+#left {
+
+}
+
+#right {
+
+}
+
+#center {
+
 }
