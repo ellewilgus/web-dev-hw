@@ -1,0 +1,46 @@
+/* This applies to everything. */
+body {
+   font-family: Arial;
+   background-color: rgb(0,0,0)
+}
+
+/* Element selectors that apply to each element. */
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+
+}
+
+p {
+  color: black;
+}
+
+/* Class selectors start with . and apply to every class="whatever". */
+.box {
+  width: 50%
+  height: 200px;
+}
+
+.line {
+
+}
+
+/* ID selectors start with # and apply to every ID="whatever". */
+#color1 {
+  background-color:
+}
+
+#color2 {
+  background-color:
+}
+
+#color3 {
+  background-color:
+}
+
+#color4 {
+  background-color:
+}
