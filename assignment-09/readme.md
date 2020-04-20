@@ -1,8 +1,8 @@
 # Elle Wilgus
 ## Assignment 9
 
-1.
+1. The difference between the universal, element, class, and id selector types is that they apply rules to elements in different ways. The universal selector styles all elements on a page, element selectors style each element of a certain type on a page, class selectors style every div with that class attribute, and id selectors  style every div with that id attribute. You might choose one selector over the other based on convenience or efficiency. For instance, universal selectors and element selectors can be a quick way to style many elements at once, and class and id selectors are useful to apply rules to a few or one element.
 
-2.
+2. My color palette is meant to represent the 80's and early 90's. I was inspired by bright purple, teal blue, and fuchsia that were popular during this time in fashion, specifically ski suits and windbreaker jackets. My other inspiration came from the new retro wave era of pop culture music and art of the 1980's and the iconic Solo cup jazz design in the early 1990's. I used the color picker package to select the colors on my page which was very useful. The colors I picked had the rgb values of rgb(230, 55, 240), rgb(0, 255, 201), and rgb(132, 56, 255).
 
-3. My work cycle for this assignment 
+3. My work cycle for this assignment was much smoother than the last. Including the CSS stylesheet made styling more efficient and made navigating the index easier. I really enjoyed selecting colors and seeing them appear on the page. I can see how styling makes the design process more complicated but allows for more creativity. The two packages that I downloaded, color-picker and pigments, made it really easy to find the exact shades that I was envisioning for my color palette. I feel like my page for Assignment 9 looks like kind of a mess, but hopefully this will improve when I learn more about positioning. Overall, I like picking colors and that was a lot of fun.
