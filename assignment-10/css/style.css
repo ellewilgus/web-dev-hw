@@ -1,11 +1,43 @@
 body {
-  background-color:
-  color:
-  padding:
+  background-color: rgb(0, 100, 150);
+  color: white;
+  padding: 5px;
+  font-family: 'Vollkorn', serif;
+}
+
+h1 {
+  font-family: 'Nobile', sans-serif;
+  font-size: 250%;
+}
+
+h2 {
+  font-family: 'Nobile', sans-serif;
+  text-transform: uppercase;
+}
+
+p {
+  color: rgb(246, 121, 98);
 }
 
 .text {
-  background-color:
-  color:
-  padding:
+  background-color: white;
+  color: rgb(0, 100, 150);
+  padding: 5px;
+  text-align: left;
+  line-height: 2em
+}
+
+a {
+  background-color: rgb(246, 121, 98);
+  color: white;
+  padding: 5px;
+}
+
+#cap::first-letter {
+  font-size: 300%;
+  font-weight: bold;
+}
+
+a:hover {
+  font-style:italic;
 }

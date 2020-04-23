@@ -1,8 +1,8 @@
 # Elle Wilgus
 ## Assignment 10
 
-1. kj
+1. The difference between a system font and a web font is that a system font is installed on your computer to be used with the applications on your computer and a web font is used on a web page to be downloaded by the browser and loaded with CSS. The difference between web fonts and web-safe fonts is that web-safe fonts are installed on almost every computer and are safe to use where web fonts are not installed on every operating system and may not be accessible.
 
-2. b
+2. The importance of having a font stack or fallback fonts is if the font you've selected to appear on the web page cannot load for any reason, there is another option to take its place. If the clients computer can not find the first font in the font stack it will try the second font and so on until it can find a font in the stack.
 
-3. My work cycle for this assignment
+3. My work cycle for this assignment was slower than a few of the previous assignments. As I start to experiment with the stylesheet and CSS I've found that there is a lot of trial and error. When you try something one way and it isn't loading correctly in the browser you've got to try it another way or see if you can find what isn't written correctly. Sometimes it is not going to work completely and sometimes all you needed to add is a semicolon that you missed. Either way, it takes a lot of patience to get the look you were trying for. Using Google Fonts was an easy way to find the style of font I was looking for for my writing and I like that it gave the <link> and the @ import for whichever is easier for the user to include in their head or stylesheet. Overall, I like getting to incorporate typography and the type properties. 
