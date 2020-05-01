@@ -1,0 +1,54 @@
+/* Page Wide Style */
+
+body {
+  font-family: Arial;
+  font-size:
+  margin: 0;
+}
+
+/* Navigation Style */
+.navigation {
+  background-color: rgb(61, 101, 203);
+  width: 300px;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: white
+}
+
+.info {
+  margin:2em;
+  text-align: center;
+
+}
+
+.links {
+
+}
+
+.logo {
+  background-color: black;
+  width:150px;
+  height:150px;
+  border-radius: 100%;
+  margin: auto;
+
+}
+
+/* Main Content Style */
+.main {
+  background-color: white;
+  margin-left: 300px;
+  padding: 1em;
+
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
