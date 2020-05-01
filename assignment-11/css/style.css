@@ -24,6 +24,7 @@ body {
 .info {
   margin:2em;
   text-align: center;
+  font-size: 2em;
 
 }
 
@@ -35,9 +36,17 @@ body {
   background-color: black;
   width:150px;
   height:150px;
+  border: 5px solid black;
   border-radius: 100%;
   margin: auto;
+  line-height: 150px;
+  color: red;
+  text-transform: uppercase;
 
+}
+
+.logo:hover {
+  border-color: red
 }
 
 /* Main Content Style */
