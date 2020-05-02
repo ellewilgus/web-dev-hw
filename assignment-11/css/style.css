@@ -6,10 +6,21 @@ body {
   margin: 0;
 }
 
+h1 {
+  color: rgb(252, 149, 54);
+  font-size: 300%;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family:monospace;
+  font-size: 200%;
+}
+
 /* Navigation Style */
 .navigation {
-  background-color: rgb(61, 101, 203);
-  width: 300px;
+  background-color: rgb(250, 181, 100);
+  width: 200;
   height: 100%;
   position: fixed;
   top: 0px;
@@ -18,7 +29,7 @@ body {
 
 .navigation a {
   text-decoration: none;
-  color: white
+  color: black
 }
 
 .info {
@@ -34,25 +45,31 @@ body {
 }
 
 .links a {
+  color: white;
   display: block;
   margin: 1em;
+  font-family: monospace;
+  font-size: 150%;
+}
+
+.links a:hover {
+  text-decoration: underline;
 }
 
 .logo {
-  background-color: black;
+  background-color: white;
   width:150px;
   height:150px;
-  border: 5px solid black;
+  border: 5px solid white;
   border-radius: 100%;
   margin: 0 auto 1em;
   line-height: 150px;
-  color: red;
+  color: black;
   text-transform: uppercase;
-
 }
 
 .logo:hover {
-  border-color: red
+  border-color: rgb(252, 149, 54);
 }
 
 /* Main Content Style */
