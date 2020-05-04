@@ -1,0 +1,118 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px|Solway|Source+Sans+Pro:600&display=swap');
+
+/*
+font-family: 'Solway', serif;
+font-family: 'Source Sans Pro', sans-serif;
+*/
+
+body {
+  background-color: white;
+  font-family: serif;
+  text-align: center;
+}
+
+menu {
+  background-color:rgb(176, 190, 228);
+  margin: 0;
+  padding: 0;
+  font-family: 'Solway', serif;
+  text-transform: uppercase;
+}
+
+form {
+  line-height: 2em;
+  font-family: serif;
+  font-size: .5em;
+  color: black;
+  display: block;
+}
+
+p {
+  font-family: serif;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  color:rgb(112, 157, 101);
+  font-size: 2.5em;
+}
+
+h2 {
+  font-family: 'Solway', serif;
+  color: rgb(75, 90, 167);
+}
+
+/* Image Style */
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+.photo {
+  display: inline;
+  width: 250px;
+  height: 250px;
+}
+
+/* Navigation Style */
+#site-links {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+#site-links .item {
+  width: 6em;
+  padding: .5em 1em;
+  background-color: rgb(176, 190, 228);
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#site-links .item:hover {
+  text-decoration: underline;
+  color: black;
+  background-color: rgb(75, 90, 167);
+}
+
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+}
+
+#site-links .dropdown-options {
+  position:absolute;
+  display: none;
+  background-color: rgb(75, 90, 167);
+  z-index: 5;
+}
+
+#site-links .dropdown-options a {
+  color: white;
+  text-decoration: none;
+}
+
+#site-links .dropdown:hover .dropdown-options {
+  display: block;
+}
+
+#site-links .dropdown-options a:hover {
+  color: black;
+  background-color: rgb(176, 190, 228);
+  text-decoration: underline;
+}
+
+#site-links .dropdown-item {
+  width: 6em;
+  padding: .5em 1em;
+  text-align: center;
+  display: block;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(176, 190, 228);
+}
