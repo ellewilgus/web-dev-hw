@@ -1,9 +1,26 @@
 /* Navigation Style */
+body {
+  background-color: white;
+  font-family: 'Roboto Slab', serif;
+}
 
 menu {
-  background-color: black;
+  background-color: rgb(191, 120, 133);
   margin: 0;
   padding: 0;
+  font-family: 'Noto Sans JP', sans-serif;
+  text-transform: uppercase;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Roboto+Slab&display=swap');
+
+h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+  text-transform: uppercase;
+}
+
+h2 {
+
 }
 
 #site-links {
@@ -15,16 +32,17 @@ menu {
 #site-links .item {
   width: 6em;
   padding: .5em 1em;
-  background-color: black;
+  background-color: rgb(191, 120, 133);
   text-align: center;
   color: white;
+  text-decoration: none;
   display: inline-block;
 }
 
 #site-links .item:hover {
   text-decoration: underline;
-  color: red;
-  background-color: green;
+  color: black;
+  background-color: rgb(147, 56, 81);
 }
 
 #site-links .dropdown {
@@ -35,12 +53,13 @@ menu {
 #site-links .dropdown-options {
   position:absolute;
   display: none;
-  background-color: green;
+  background-color: rgb(147, 56, 81);
   z-index: 5;
 }
 
 #site-links .dropdown-options a {
   color: white;
+  text-decoration: none;
 }
 
 #site-links .dropdown:hover .dropdown-options {
@@ -48,8 +67,8 @@ menu {
 }
 
 #site-links .dropdown-options a:hover {
-  color: red;
-  background-color: black;
+  color: black;
+  background-color: rgb(191, 120, 133);
   text-decoration: underline;
 }
 
@@ -61,5 +80,5 @@ menu {
 }
 
 .dropdown-item:hover {
-  background-color: green;
+  background-color: rgb(191, 120, 133);
 }

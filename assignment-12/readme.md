@@ -1,7 +1,7 @@
 # Elle Wilgus
 ## Assignment 12
 
-1.
+1. 
 
 2.
 
