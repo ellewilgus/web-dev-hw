@@ -1,4 +1,4 @@
-/* Navigation Style */
+
 body {
   background-color: white;
   font-family: 'Roboto Slab', serif;
@@ -12,17 +12,28 @@ menu {
   text-transform: uppercase;
 }
 
+form {
+  font-family: 'Roboto Slab', serif;
+  line-height: 2em;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP|Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Allura&display=swap');
 
 h1 {
   font-family: 'Noto Sans JP', sans-serif;
   text-transform: uppercase;
+  color:rgb(147, 56, 81);
+  font-size: 2.5em;
 }
 
 h2 {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Allura', cursive;
+  color: rgb(128, 153, 99);
+  font-size: 2em;
 }
 
+/* Navigation Style */
 #site-links {
   margin: 0;
   padding: 0;
@@ -81,4 +92,14 @@ h2 {
 
 .dropdown-item:hover {
   background-color: rgb(191, 120, 133);
+}
+
+/* Image Style */
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+.photo {
+  display: inline;
 }
