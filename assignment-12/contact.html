@@ -28,7 +28,35 @@
     </menu>
 
     <!-- Page Content -->
+    <h1>Get in Touch With Us</h1>
 
+    <form action="https://example.com/registration.php" method="post">
+          First Name:
+          <input type="text" name="firstname" maxlength="12" autofocus>
+                <br>
+          Last Name:
+          <input type="text" name="lastname" maxlength="20" autofocus>
+                <br>
+          Email:
+          <input type="text" name="email" maxlength="40" autofocus>
+                <br>
+          Subject:
+                <br>
+      <input type="radio" name="discovered" value="question" /> Question
+      <br />
+      <input type="radio" name="discovered" value="comment" /> Comment
+      <br />
+      <input type="radio" name="discovered" value="Suggestion" /> Suggestion
+      <br />
+      <input type="radio" name="discovered" value="other" /> Other
+          <p>
+          Message:
+                <br>
+            <textarea name="message" id="test-textarea">What can we do for you?</textarea>
+          </p>
+
+          <input type="button" value="Submit">
+        </form>
 
 
   </body>
