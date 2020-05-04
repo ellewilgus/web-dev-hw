@@ -4,6 +4,26 @@ body {
 
 }
 
-#links {
+menu {
+  background-color: ;
+  margin: 0;
+  padding: 0;
+}
+
+#site-links {
+  display: inline-block;
+
+}
+
+#site-links .item {
+  width: 6em;
+  padding: .5em 1em;
+  background-color: rgb(224, 61, 224);
+  text-align: center;
+  color: white;
+  display: inline-block;
+}
+
+#social-links {
 
 }
