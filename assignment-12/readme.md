@@ -1,8 +1,8 @@
 # Elle Wilgus
 ## Assignment 12
 
-1. 
+1. My imaginary client for my CSS website is the owner of a spa or salon that needs a functioning site for their business. This client wanted simple navigation and pages to hold different information about their spa. Their needs include a services pages to describe the different treatments they offer, an about page for the owner to describe their business, a contact page with a form to submit contact information, and links to their external sites like a full spa menu PDF and a booking site.
 
-2.
+2. The difference between display: block, display: inline, and display: inline-block is the layout and the way the elements will be positioned. Display: inline forces elements to behave like inline elements and flow with the rest of the content, display: inline-block is like the inline property except elements respect margin and vertical spacing rules, and display: block displays elements in a vertical list.
 
-3. My work cycle for this assignment
+3. My work cycle for this assignment was as usual a lot of back and forth between my tabs in atom and the browser window where I view my website. Because this assignment is the CSS website, I tried to pay more attention to color and typeface than in previous assignments. Although I consider those elements more interesting than others, I found that it isn't an easy process or easy to decide what direction to go in. I am assuming when working with an actual client, it would be easier to make stylistic choices when you are working with their vision instead of making one up. Positioning remains the most difficult thing to work with and I would say I have a rough time keeping everything organized in my head when writing all the style elements. Overall, I am happy with what I was able to accomplish even if it was painful.
