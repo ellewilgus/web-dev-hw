@@ -1,29 +1,65 @@
-/* Site Wide Style */
-
-body {
-
-}
+/* Navigation Style */
 
 menu {
-  background-color: ;
+  background-color: black;
   margin: 0;
   padding: 0;
 }
 
 #site-links {
+  margin: 0;
+  padding: 0;
   display: inline-block;
-
 }
 
 #site-links .item {
   width: 6em;
   padding: .5em 1em;
-  background-color: rgb(224, 61, 224);
+  background-color: black;
   text-align: center;
   color: white;
   display: inline-block;
 }
 
-#social-links {
+#site-links .item:hover {
+  text-decoration: underline;
+  color: red;
+  background-color: green;
+}
 
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+}
+
+#site-links .dropdown-options {
+  position:absolute;
+  display: none;
+  background-color: green;
+  z-index: 5;
+}
+
+#site-links .dropdown-options a {
+  color: white;
+}
+
+#site-links .dropdown:hover .dropdown-options {
+  display: block;
+}
+
+#site-links .dropdown-options a:hover {
+  color: red;
+  background-color: black;
+  text-decoration: underline;
+}
+
+#site-links .dropdown-item {
+  width: 6em;
+  padding: .5em 1em;
+  text-align: center;
+  display: block;
+}
+
+.dropdown-item:hover {
+  background-color: green;
 }
