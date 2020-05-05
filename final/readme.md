@@ -1,0 +1,8 @@
+# Elle Wilgus
+## Final
+
+1. I learned a lot about web development, in fact before this course I knew almost nothing and now I am capable of constructing an entire website. I feel that I have learned new things about repositories and have definitely learned a lot about GitHub and using the desktop applications. Learning HTML and CSS has been an enjoyable process and I hope it will come in handy later.
+
+2. I also learned about web design, and although I enjoy this part of web dev more, I still feel like I learned a lot about media and typography. The main thing that I have discovered is how closely web development and web design go together in the process of building a website. You can see the vision of what you want your site to look like but you need to utilize all of the different elements and style attributes in order to achieve your vision.
+
+3. My work cycle for this assignment was mostly about piecing together elements that I am now familiar in order to create a cohesive website. I wanted the site to be a prototype for a camp ground that is really special to me. This final assignment got me thinking about how every website has different needs and the way the layout and navigation is set up needs to complement the needs of the site. Overall, this assignment went the best of all because I was more confident in the way the pages would end up after CSS styling and including all of the different elements. I like how I can go back and visit the course website in order to refresh my memory when I can't quite remember how to do something in HTML, that was very helpful for this final assignment.
